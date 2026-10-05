@@ -1,0 +1,15 @@
+/Users/adiel/Desktop/for loops/ForLoopsApp/obj/Debug/net10.0/ForLoopsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adiel/Desktop/for loops/ForLoopsApp/obj/Debug/net10.0/ForLoopsApp.AssemblyInfoInputs.cache
+/Users/adiel/Desktop/for loops/ForLoopsApp/obj/Debug/net10.0/ForLoopsApp.AssemblyInfo.cs
+/Users/adiel/Desktop/for loops/ForLoopsApp/obj/Debug/net10.0/ForLoopsApp.csproj.CoreCompileInputs.cache
+/Users/adiel/Desktop/for loops/ForLoopsApp/obj/Debug/net10.0/ForLoopsApp.sourcelink.json
+/Users/adiel/Desktop/for loops/ForLoopsApp/bin/Debug/net10.0/ForLoopsApp
+/Users/adiel/Desktop/for loops/ForLoopsApp/bin/Debug/net10.0/ForLoopsApp.deps.json
+/Users/adiel/Desktop/for loops/ForLoopsApp/bin/Debug/net10.0/ForLoopsApp.runtimeconfig.json
+/Users/adiel/Desktop/for loops/ForLoopsApp/bin/Debug/net10.0/ForLoopsApp.dll
+/Users/adiel/Desktop/for loops/ForLoopsApp/bin/Debug/net10.0/ForLoopsApp.pdb
+/Users/adiel/Desktop/for loops/ForLoopsApp/obj/Debug/net10.0/ForLoopsApp.dll
+/Users/adiel/Desktop/for loops/ForLoopsApp/obj/Debug/net10.0/refint/ForLoopsApp.dll
+/Users/adiel/Desktop/for loops/ForLoopsApp/obj/Debug/net10.0/ForLoopsApp.pdb
+/Users/adiel/Desktop/for loops/ForLoopsApp/obj/Debug/net10.0/ForLoopsApp.genruntimeconfig.cache
+/Users/adiel/Desktop/for loops/ForLoopsApp/obj/Debug/net10.0/ref/ForLoopsApp.dll

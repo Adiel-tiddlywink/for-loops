@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ForLoopsApp/ForLoopsApp.csproj" />
+  <Project Path="ForLoopsApp2/ForLoopsApp2.csproj" />
+</Solution>
