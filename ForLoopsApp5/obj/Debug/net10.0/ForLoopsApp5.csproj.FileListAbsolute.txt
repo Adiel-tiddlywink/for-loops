@@ -1,0 +1,15 @@
+/Users/adiel/Desktop/for loops/ForLoopsApp5/obj/Debug/net10.0/ForLoopsApp5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adiel/Desktop/for loops/ForLoopsApp5/obj/Debug/net10.0/ForLoopsApp5.AssemblyInfoInputs.cache
+/Users/adiel/Desktop/for loops/ForLoopsApp5/obj/Debug/net10.0/ForLoopsApp5.AssemblyInfo.cs
+/Users/adiel/Desktop/for loops/ForLoopsApp5/obj/Debug/net10.0/ForLoopsApp5.csproj.CoreCompileInputs.cache
+/Users/adiel/Desktop/for loops/ForLoopsApp5/obj/Debug/net10.0/ForLoopsApp5.sourcelink.json
+/Users/adiel/Desktop/for loops/ForLoopsApp5/bin/Debug/net10.0/ForLoopsApp5
+/Users/adiel/Desktop/for loops/ForLoopsApp5/bin/Debug/net10.0/ForLoopsApp5.deps.json
+/Users/adiel/Desktop/for loops/ForLoopsApp5/bin/Debug/net10.0/ForLoopsApp5.runtimeconfig.json
+/Users/adiel/Desktop/for loops/ForLoopsApp5/bin/Debug/net10.0/ForLoopsApp5.dll
+/Users/adiel/Desktop/for loops/ForLoopsApp5/bin/Debug/net10.0/ForLoopsApp5.pdb
+/Users/adiel/Desktop/for loops/ForLoopsApp5/obj/Debug/net10.0/ForLoopsApp5.dll
+/Users/adiel/Desktop/for loops/ForLoopsApp5/obj/Debug/net10.0/refint/ForLoopsApp5.dll
+/Users/adiel/Desktop/for loops/ForLoopsApp5/obj/Debug/net10.0/ForLoopsApp5.pdb
+/Users/adiel/Desktop/for loops/ForLoopsApp5/obj/Debug/net10.0/ForLoopsApp5.genruntimeconfig.cache
+/Users/adiel/Desktop/for loops/ForLoopsApp5/obj/Debug/net10.0/ref/ForLoopsApp5.dll

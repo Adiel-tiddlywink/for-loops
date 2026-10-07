@@ -3,4 +3,5 @@
   <Project Path="ForLoopsApp2/ForLoopsApp2.csproj" />
   <Project Path="ForLoopsApp3/ForLoopsApp3.csproj" />
   <Project Path="ForLoopsApp4/ForLoopsApp4.csproj" />
+  <Project Path="ForLoopsApp5/ForLoopsApp5.csproj" />
 </Solution>
